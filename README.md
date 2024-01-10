@@ -3,14 +3,6 @@
 
 ## 프로젝트 개요
 
-![로고](./front/public/mainlogo.png)
-
-- 개발 기간: 2023-11-20 ~ 2023-01-02
-- 서비스 링크: [https://www.naver.com](https://www.naver.com)
-- 본 프로젝트의 구조를 더 자세히 알고 싶다면?
-  - [백엔드 README](./BACK.md)
-  - [프론트엔드 README](./FRONT.md)
-
 ## 기술 스택
 `Front-End` 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
